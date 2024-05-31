@@ -21,8 +21,9 @@ for i in row[1:]:
     df.loc[l]=row
 df.to_csv("ipl auction details 2024.csv")
 # hi this file is a dummy onerevert mmmmm
+
 im a king 
 
 
-
 line 28 - added from master
+line 29 added from slave
