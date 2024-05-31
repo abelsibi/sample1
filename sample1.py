@@ -20,12 +20,9 @@ for i in row[1:]:
     l=len(df)
     df.loc[l]=row
 df.to_csv("ipl auction details 2024.csv")
-
-new line
-jfjdfjf
-
 # hi this file is a dummy onerevert mmmmm
-im a king   im a slave 
+im a king 
 
 
-hello ~ from master
+
+line 28 - added from master
