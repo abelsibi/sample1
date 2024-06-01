@@ -27,3 +27,4 @@ im a king
 #this is a new line 
 line 28 - added from master
 line 29 added from slave
+hello
