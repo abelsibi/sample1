@@ -15,7 +15,13 @@ price_list=[]
 for i in price:
     name=i.text
     price_list.append(name)
-print(price_list)
+
+description=soup.find_all("p", class_="description card-text")
+description_list=[]
+for i in description:
+    name=i.text
+    description_list.append(name)
+print(description_list)
 
 
 
