@@ -9,6 +9,13 @@ product_name_list=[]
 for i in product_name:
     product=i.text
     product_name_list.append(product)
-print(product_name_list)
+
+price=soup.find_all("h4", class_="price float-end card-title pull-right")
+price_list=[]
+for i in price:
+    name=i.text
+    price_list.append(name)
+print(price_list)
+
 
 
