@@ -24,6 +24,10 @@ df.to_csv("ipl auction details 2024.csv")
 
 im a king 
 
+<<<<<<< HEAD
 print("hi")
+=======
+#this is a new line 
+>>>>>>> slave1
 line 28 - added from master
 line 29 added from slave
