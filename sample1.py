@@ -38,7 +38,8 @@ for i in row[1:]:
     l=len(df)
     df.loc[l]=row
 print(df)
-df.to_csv("test table.csv")
+# df.to_csv("test table.csv")
+# add new line
 
 
 
